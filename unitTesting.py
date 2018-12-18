@@ -19,8 +19,6 @@ Created on Fri Nov  2 21:07:34 2018
 # F.	Repeat C – E until all relevant cases are tested for that function.
 # =============================================================================
 
-#****MAKE SURE main() in A4P3 file is uncommented before runing this file. *******
-
 import classEllipse
 from A4P3 import computeBox
 from A4P3 import simulateOnce
