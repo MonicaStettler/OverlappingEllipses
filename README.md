@@ -2,6 +2,7 @@
 Python assignment from course DSC430 - grade 100%
 
 Overlapping Ellipses
+
 An ellipse is a curve in a plane surrounding two focal points such that the sum of the distances to the two focal points is constant for every point on the curve.  – Wikipedia.
  
 In this assignment you will use a Monte Carlo Simulation to estimate the overlap between two Ellipses.
